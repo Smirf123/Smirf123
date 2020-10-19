@@ -10,7 +10,8 @@
 
 <br />
 <br />
-<object align="left" alt="Smirf123:" src="https://discordapp.com/widget?id=602284873092169758&theme=dark" />
+<object type="text/html" data="https://discordapp.com/widget?id=602284873092169758&theme=dark">
+</object>
 <br />
 ### Languages and Tools/Platforms:
 
