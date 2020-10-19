@@ -10,7 +10,7 @@
 
 <br />
 <br />
-<img align="left" alt="Smirf123:" src="https://discordapp.com/widget?id=602284873092169758&theme=dark" />
+<object align="left" alt="Smirf123:" src="https://discordapp.com/widget?id=602284873092169758&theme=dark" />
 <br />
 ### Languages and Tools/Platforms:
 
