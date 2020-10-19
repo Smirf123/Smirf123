@@ -10,8 +10,7 @@
 
 <br />
 <br />
-<object type="text/html" data="https://discordapp.com/widget?id=602284873092169758&theme=dark">
-</object>
+Join our Discord Server: &nbsp; <a href="https://discord.gg/h3NhAh9"><img src="https://discordapp.com/api/guilds/602284873092169758/widget.png?style=shield"></img></a>
 <br />
 ### Languages and Tools/Platforms:
 
